@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oct16" alt="oct16" /> </p>
 
-<h4>🚀 Goals in 2021</h4>
+<h4>Goals in 2021</h4>
 <ul>
-  <li>Travel to 30 countries</li>
-  <li>Write a book </li>
-  <li>Learn English</li>
-  <li>Have a dog</li>
-  <li>Find a job</li>
+  <li>Learn English🤣</li>
+  <li>Open Source💻</li>
+  <li>Write A Book📚</li>
+  <li>Learn Skiing⛷</li>
+  <li>Get Up Ear🌞</li>
+  <li>Run For Exercise🏃🏻</li>
+  <li>Have A Dog🐕</li>
 </ul>
 
 Contact Me Base64: 
