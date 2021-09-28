@@ -10,6 +10,7 @@
   <li>Open Source💻</li>
   <li>Write A Book📚</li>
   <li>Learn Skiing⛷</li>
+  <li>Learn Tennis🎾</li>
   <li>Learn Guita🎸</li>
   <li>Paragliding🪂</li>
   <li>Pilot License🛩</li>
